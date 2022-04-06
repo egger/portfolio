@@ -37,4 +37,4 @@ yarn build
 
 ## License
 
-[MIT](MIT)
+[MIT](LICENSE)
