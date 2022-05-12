@@ -33,7 +33,7 @@ const websites: WebsitesData = {
         id: "my-email",
         title: "Email",
         img: "img/sites/gmail.svg",
-        link: "mailto:office@t-e.me"
+        link: "mailto:thomas@egger.ai"
       }
     ]
   },
@@ -72,9 +72,9 @@ const websites: WebsitesData = {
       },
       {
         id: "tiny-png",
-        title: "Ryen Drive",
-        img: "https://drive.ryen.org/system/8c9a7d79-be6e-4e8f-ab3f-2aed116e2340png",
-        link: "https://drive.ryen.org/"
+        title: "More Load",
+        img: "https://moreload.com/system/37c1ed20-37b0-4b8e-9e34-4fbe25573f5b.png",
+        link: "https://moreload.com/"
       }
     ]
   }

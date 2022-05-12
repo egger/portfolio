@@ -48,11 +48,11 @@ const terminal: TerminalData[] = [
               Email:{" "}
               <a
                 className="text-blue-300"
-                href="mailto:office@t-e.me"
+                href="mailto:thomas@egger.ai"
                 target="_blank"
                 rel="noreferrer"
               >
-                office@t-e.me
+                thomas@egger.ai
               </a>{" "}
             </li>
             <li>

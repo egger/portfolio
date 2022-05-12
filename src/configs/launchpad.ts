@@ -11,7 +11,7 @@ const launchpadApps: LaunchpadData[] = [
     id: "email",
     title: "Mail",
     img: "img/icons/mail.png",
-    link: "mailto:office@t-e.me"
+    link: "mailto:thomas@egger.ai"
   }
 ];
 

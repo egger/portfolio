@@ -1,6 +1,6 @@
 # Egger - Web
 
-My portfolio website simulating macOS's GUI: https://t-e.me
+My portfolio website simulating macOS's GUI: https://web.egger.ai
 
 Powered by [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/) + [Tailwind CSS](https://tailwindcss.com/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 

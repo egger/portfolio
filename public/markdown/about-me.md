@@ -15,7 +15,7 @@ I'm also learning to build machine learning softwares and systems. I'm also lear
 
 Contact me by:
 
-- Email: [office@t-e.me](mailto:office@t-e.me)
+- Email: [thomas@egger.ai](mailto:thomas@egger.ai)
 - Github: [@Egger](https://github.com/egger)
 - Linkedin: [TomEgger](https://www.linkedin.com/in/TomEgger)
 - Blog: [EggerNotes](https://eggernotes.com)
@@ -23,4 +23,4 @@ Contact me by:
 
 ## Résumé
 
-- Normal version: [English](https://t-e.me/r.pdf)
+- Normal version: [English](https://web.egger.ai/r.pdf)
